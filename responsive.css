@@ -1,0 +1,5 @@
+@media (width < 900px) {
+	:root {
+		--card-count: 1;
+	}
+}
